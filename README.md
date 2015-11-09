@@ -1,2 +1,2 @@
-# prolab
+# Prolab
 Custom Wordpress theme Prolab
